@@ -49,7 +49,7 @@ const Gameboy = () => {
         maxAzimuthAngle={(3 / 2) * Math.PI}
         minPolarAngle={Math.PI / 6}
         maxPolarAngle={Math.PI / 2}
-        dampingFactor={0.04}
+        dampingFactor={0.1}
         zoomSpeed={0.5}
         maxDistance={50}
         minDistance={25}
