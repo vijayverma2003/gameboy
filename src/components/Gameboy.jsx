@@ -53,6 +53,7 @@ const Gameboy = () => {
         zoomSpeed={0.5}
         maxDistance={50}
         minDistance={25}
+        enablePan={false}
       />
       <Sparkles
         scale={[25, 1, 25]}
